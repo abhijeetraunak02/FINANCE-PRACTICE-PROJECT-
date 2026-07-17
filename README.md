@@ -130,7 +130,7 @@ Finance dataset provided by trainer for educational and analytical purposes.
 Abhijeet Raunak
 Data Analytics Student | Power BI Developer | Business Intelligence Enthusiast
 
+SCREENSHOT>
+https://github.com/abhijeetraunak02/FINANCE-PRACTICE-PROJECT-/blob/main/Screenshot%202026-07-17%20092000.png
 
 
-**Abhijeet Raunak**
-Data Analytics Student | Power BI Developer | Business Intelligence Enthusiast
